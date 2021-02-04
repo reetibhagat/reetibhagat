@@ -12,10 +12,11 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I recently completed my Data Science studies from Spring Board
-- ⏳ I am constantly learning and keep myself updated with the latest technologies in AI.
-- 🤔 My interests are in Data Science, Web Development and in Embedded Systems.
-- 💬 Ask me about anything, I am happy to help.
+- Certified in data science after completing a very immersive program from Springboard bootcamp where I have completed two capstone projects.
+- I am constantly learning and keep myself updated with the latest technologies in AI.
+- My interests are in Data Science and Web Development 
+-	2 years of experience as a data analyst working with healthcare projects using tools like python, SQL and Tableau.
+-  Ask me about anything, I am happy to help.
 - 📫 Please email via bhagat.reeti@gmail.com to reach me.
 - 📝 See my [Resume](https://github.com/reetibhagat/Resume/blob/master/reeti_bhagat_resume.pdf) to get more info.
 
@@ -30,7 +31,7 @@
 
 **Things I'm good at :fire:**
 
-**Languages:**  Python, HTML, Embedded C.
+**Languages:**  Python,R
 
 **Framework:** Flask
 
