@@ -10,10 +10,12 @@
 
 <em>
 
-**Talking about Personal Stuffs:**
-
+**Talking about Personal Stuffs:
+-Data Scientist / Data Analyst,MBA with +4 years of professional experience in Marketing and Sales and 2 years of experience in data analytics. 
+-Skilled in data analysis using python,SQL, business intelligence using Tableau, and AWS cloud management.
 - Certified in data science after completing a very immersive program from Springboard bootcamp where I have completed two capstone projects.
 - I am constantly learning and keep myself updated with the latest technologies in AI.
+- Currently pursuing master degree in data science and analytics from Georgia Tech.
 - My interests are in Data Science and Web Development 
 -	2 years of experience as a data analyst working with healthcare projects using tools like python, SQL and Tableau.
 -  Ask me about anything, I am happy to help.
