@@ -11,7 +11,7 @@
 <em>
 
 **Talking about Personal Stuffs:
--Data Scientist / Data Analyst,MBA with +4 years of professional experience in Marketing and Sales and 5 years of experience in data analytics. 
+-Data Scientist |python developer,MBA with +4 years of professional experience in Marketing and Sales and 5 years of experience in data analytics. 
 -Skilled in data analysis using python,SQL, business intelligence using Tableau, and AWS cloud management.
 - Certified in data science after completing a very immersive program from Springboard bootcamp where I have completed two capstone projects.
 - I am constantly learning and keep myself updated with the latest technologies in AI.
