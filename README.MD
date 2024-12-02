@@ -52,7 +52,7 @@ Here are some of the projects I’m proud of:
 
 ## 🌱 **What I'm Working On**
 - Exploring **LLM models** and their application in predictive healthcare analytics.
-- Pursuing **Epic certification** to enhance healthcare IT solutions.
+
 
 ---
 
