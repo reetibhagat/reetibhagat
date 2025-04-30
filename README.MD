@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I’m a **Data Scientist** with over 5 years of ex
 
 ## 🛠️ **Projects**
 Here are some of the projects I’m proud of:
-### 🩺 [Medical Chatbot with Generative AI] 
+### 🩺 Medical Chatbot with Generative AI 
 **March 2025 – April 2025**
 - Built an end-to-end medical chatbot using **Python**, **LangChain**, **Flask**, and **GPT-3**, enabling semantic search and natural language conversations.  
 - Integrated **Pinecone** for vector-based embedding search to retrieve contextually relevant medical information.  
@@ -38,7 +38,14 @@ Here are some of the projects I’m proud of:
 - Pushed Docker images to **Amazon ECR** and deployed the app to **AWS EC2 instances**.  
 - Automated infrastructure setup and deployment using **GitHub Actions** with **self-hosted runners** on EC2 for CI/CD.
 
-### [Covid-19 Analysis and Forecasting](https://github.com/reetibhagat/covid-19forecasting)
+### KYC Risk Classification using LLaMA and BERT
+
+- Developed a transformer-based system to automate KYC risk assessment, classifying applications as **Approved**, **Review Required**, or **Rejected**.
+- Integrated web scraping modules to enrich KYC data with external public sources for enhanced decision-making.
+- Deployed models to Hugging Face and automated training workflows using Apache Airflow for scalable execution.
+
+
+### Covid-19 Analysis and Forecasting
 - 📈 Developed time-series analysis and forecasting models to predict Covid-19 trends.
 - 🛠️ Tools: Python, Pandas, Matplotlib, ARIMA models.
 
