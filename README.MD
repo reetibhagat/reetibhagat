@@ -22,15 +22,14 @@ Welcome to my GitHub profile! I’m a **Data Scientist** with over 5 years of ex
 ### Specialties:
 - Data Manipulation: Pandas, NumPy  
 - Statistics & Modeling: Regression, Clustering, PCA, Hypothesis Testing  
-- NLP: Text Analysis, Sentiment Analysis ,langchain,Huggingface
+- NLP: Text Analysis, Sentiment Analysis ,langchain,Huggingface,Agentic ai
 
 ---
 
 ## 🛠️ **Projects**
 Here are some of the projects I’m proud of:
-### 🩺 Medical Chatbot with Generative AI  
+### 🩺 [Medical Chatbot with Generative AI] 
 **March 2025 – April 2025**
-
 - Built an end-to-end medical chatbot using **Python**, **LangChain**, **Flask**, and **GPT-3**, enabling semantic search and natural language conversations.  
 - Integrated **Pinecone** for vector-based embedding search to retrieve contextually relevant medical information.  
 - Utilized **Hugging Face Transformers** to extract and parse data from medical PDFs for knowledge base creation.  
